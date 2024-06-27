@@ -18,8 +18,10 @@ export const Home = () => {
         <p>Welcome!</p>
         <p>WannaBet is a non-custodial peer-to-peer betting platform.</p>
         <p>
-          We&apos;re currently a work in progress and are trying to roll out
-          features and bugfixes as fast as possible. You can read more about us
+          The WannaBet interface is currently only availible through Farcaster Frames, to bet, head back to your Farcaster client and go to the @wannabet page to start a bet.
+        </p>
+        <p>  
+          You can read more about us
           on our <a href="https://github.com/ncale/wanna-bet">github page</a>.
         </p>
       </body>
